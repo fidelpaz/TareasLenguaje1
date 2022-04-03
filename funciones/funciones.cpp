@@ -19,7 +19,7 @@ int sumar()
 string nombreCompleto()
 {
 	string nombre = "Juan";
-	string apellido = "Perez"
+	string apellido = "Perez";
 	
 	return nombre + "  " + apellido;
 }
