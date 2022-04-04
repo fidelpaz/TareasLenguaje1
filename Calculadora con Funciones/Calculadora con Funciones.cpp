@@ -22,6 +22,8 @@ int calculadora(int a, int b, char operador)
 	{
 		return sumar(a, b);
 	}
+	
+	return -1;
 }
 
 int main()
